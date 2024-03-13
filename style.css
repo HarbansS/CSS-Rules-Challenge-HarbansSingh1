@@ -1,0 +1,28 @@
+img {
+  width: 150px;
+  height: 150px;
+}
+
+body{
+  background-color: #7c1d1d;
+  font-family: cursive;
+  color: #969696;
+}/*Here I added all of the colors used in the project and the fonts*/
+h1{
+font-size: 50px;
+}
+h2{
+font-size: 30px;
+}
+h3{
+font-size: 25px;
+}
+h4{
+font-size: ;
+}
+h5{
+font-size: 15px;
+}
+p{
+font-size: 20;
+}/*added all the font sizes here*/
